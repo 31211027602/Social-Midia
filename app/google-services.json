@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414483763510",
+    "project_id": "social-midia-a0d29",
+    "storage_bucket": "social-midia-a0d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414483763510:android:dc5373be52131c9b462397",
+        "android_client_info": {
+          "package_name": "com.example.socialmidia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Nm1IpfMTT2S7hmZeP5u52vXtcGYLR1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
