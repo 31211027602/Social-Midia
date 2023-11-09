@@ -1,13 +1,33 @@
 {
   "project_info": {
-    "project_number": "414483763510",
-    "project_id": "social-midia-a0d29",
-    "storage_bucket": "social-midia-a0d29.appspot.com"
+    "project_number": "457023068282",
+    "firebase_url": "https://instagram-cb7fa-default-rtdb.firebaseio.com",
+    "project_id": "instagram-cb7fa",
+    "storage_bucket": "instagram-cb7fa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:414483763510:android:dc5373be52131c9b462397",
+        "mobilesdk_app_id": "1:457023068282:android:2eb5191fe45f5f0b4903c3",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Fit7AoFEyKa9TANUGKh8ZQC7j8c0yGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457023068282:android:81fceafd59eb83b14903c3",
         "android_client_info": {
           "package_name": "com.example.socialmidia"
         }
@@ -15,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB7Nm1IpfMTT2S7hmZeP5u52vXtcGYLR1o"
+          "current_key": "AIzaSyB8Fit7AoFEyKa9TANUGKh8ZQC7j8c0yGw"
         }
       ],
       "services": {

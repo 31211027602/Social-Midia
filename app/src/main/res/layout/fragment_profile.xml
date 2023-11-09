@@ -23,7 +23,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textSize="10sp"
+                    android:textSize="18sp"
                     android:maxLines="1"
                     android:textStyle="bold"
                     android:id="@+id/username"
@@ -222,6 +222,16 @@
                 android:layout_height="wrap_content"
                 android:visibility="gone"
                 android:id="@+id/recycler_view_save" />
+
+            <Button
+                android:layout_width="110dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="end"
+                android:layout_marginRight="10dp"
+                android:text="Log out"
+                android:id="@+id/logout"
+                android:background="@drawable/button_black"/>
 
         </LinearLayout>
 
