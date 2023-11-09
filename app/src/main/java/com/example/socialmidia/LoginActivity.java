@@ -42,7 +42,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        //FrameLayout animatedBackground = findViewById(R.id.animatedBackground);
+        //Thêm background động cho màn hình
         ImageView animatedView = findViewById(R.id.animatedView);
 
         Glide.with(this)
